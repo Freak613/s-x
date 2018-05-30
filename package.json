@@ -1,0 +1,19 @@
+{
+  "name": "s-x",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Freak613/s-x.git"
+  },
+  "author": "Pavel Martynov <martynov.pl@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Freak613/s-x/issues"
+  },
+  "homepage": "https://github.com/Freak613/s-x#readme",
+  "dependencies": {
+    "lodash": "^4.17.10"
+  }
+}
